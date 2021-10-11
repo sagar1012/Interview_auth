@@ -1,4 +1,4 @@
-# Interview Authentication Demo
+# Authentication Demo
 
 ## Steps for run the application
 
